@@ -7,12 +7,12 @@ BOLIVAR | Venezuela
 BOLIVIANO  | Bolivia 
 CEDI | Ghana 
 COLON  | Costa Rica 
-CÓRDOBA  | Nicaragua 
+CÃ“RDOBA  | Nicaragua 
 DALASI | Gambia 
 DENAR | Macedonia (Former Yug. Rep.) 
-DINAR | Algeria 
+DINAR | Algeria  
 DIRHAM  | Morocco 
-DOBRA | São Tom and Príncipe 
+DOBRA | SÃ£o Tom and PrÃ­ncipe 
 DONG | Vietnam 
 DRAM | Armenia 
 ESCUDO  | Cape Verde 
